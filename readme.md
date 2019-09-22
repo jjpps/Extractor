@@ -22,7 +22,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Helping a Friend - [Éric](https://www.facebook.com/eric.gringsdasilva)
+* Helping a Friend - [Éric Grings da Silva](https://www.facebook.com/eric.gringsdasilva)
 
 
 
