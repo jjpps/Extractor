@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/EricExtrator/v16
+/Entidades/Properties
+/Entidades/obj/Debug
+/Entidades/bin/Debug
+/EricExtrator/obj/Debug
+/EricExtrator/bin/Debug
+/packages/HtmlAgilityPack.1.11.12
